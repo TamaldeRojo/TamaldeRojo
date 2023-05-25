@@ -8,4 +8,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,c,cs,dart,figma,java,jquery,kotlin,mongodb,php,postgres,unity)](https://skills.thijs.gg)
 
 ### What i would like to learn or specialize:
-[![My Skills](https://skills.thijs.gg/icons?i=py,js,git,react,tailwind,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,matlab,js,git,react,tailwind,docker)](https://skills.thijs.gg)
