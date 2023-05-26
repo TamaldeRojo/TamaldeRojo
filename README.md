@@ -16,6 +16,6 @@
 
 <h1> What i would like to learn or specialize 💖 </h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,latex,matlab,julia,mongodb,fastapi,django,js,git,react,tailwind,raspberrypi,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,latex,matlab,julia,mongodb,fastapi,django,js,git,react,tailwind,raspberrypi,cassandra,dotnet,docker)](https://skills.thijs.gg)
   
 </p>
