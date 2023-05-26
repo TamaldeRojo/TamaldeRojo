@@ -9,5 +9,4 @@
 
 ### What i would like to learn or specialize 💖
 [![My Skills](https://skills.thijs.gg/icons?i=py,latex,matlab,julia,mongodb,fastapi,django,js,git,react,tailwind,docker)](https://skills.thijs.gg)
-![image](https://github.com/TamaldeRojo/TamaldeRojo/assets/106894056/5abbc0ff-3135-48c9-962d-ff94ba3554d1)
 
