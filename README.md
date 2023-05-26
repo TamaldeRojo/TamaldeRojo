@@ -17,5 +17,8 @@
 <h1> What i would like to learn or specialize 💖 </h1>
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,latex,matlab,julia,mongodb,fastapi,django,js,git,react,tailwind,raspberrypi,cassandra,dotnet,docker)](https://skills.thijs.gg)
+
+<h1>My most personal meme</h1>
+<img src="https://i.pinimg.com/564x/9f/a8/7c/9fa87cf33d36b878f7adc9adeadfb149.jpg">
   
 </p>
