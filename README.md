@@ -1,6 +1,6 @@
 ### This is what i am aiming for right now! 💖
 
-(https://img.shields.io/static/v1?label=<Status>&message=<Up>&color=<Green>)
+![Status](https://img.shields.io/static/v1?label=<Status>&message=<Up>&color=<Green>)
 ### I was born in Chihuahua and my goal is to get a well-paid job in order to start a physics degree and help my family
 
 
