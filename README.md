@@ -1,6 +1,6 @@
 ### This is what i am aiming for right now! 💖
 
-[![Generic badge](https://img.shields.io/badge/<Current main goal><in progress><COLOR>.svg)]
+[![Theoretically Productive](https://img.shields.io/badge/)](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?style=flat-square&up_message=In%20Progress)
 ### I was born in Chihuahua and my goal is to get a well-paid job in order to start a physics degree and help my family
 
 
