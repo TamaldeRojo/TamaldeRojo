@@ -4,6 +4,9 @@
 ### I was born in Chihuahua and my goal is to get a well-paid job in order to start a physics degree and help my family
 ![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
 
+### If i had to choose a programing language that suits my personality, i would probably choose Python because as i, python could not be the best at anything, but you can do plenty of things with it, and that's what i intent to be, a person that it's able to do huge things, not just programing. 
+
+
 
 
 <p align="center">
