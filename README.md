@@ -13,7 +13,7 @@
   
 <h1> What i know  💸✏</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mysql,nodejs,py,react,tailwind,docker,raspberrypi,linux,discord,ps,postman,vscode,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mysql,nodejs,py,react,tailwind,raspberrypi,linux,discord,ps,postman,vscode,)](https://skills.thijs.gg)
     
 <h1>What i have used 💗</h1>
 
