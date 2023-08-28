@@ -5,7 +5,8 @@
 ### I was born in Chihuahua and my goal is to get a well-paid job in order to start a physics degree and help my family
 ![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
 
-
+### Currently Looking for a job. Contact me:
+### devbyjosue@gmail.com
 
 <p align="center">
   
