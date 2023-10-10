@@ -1,12 +1,13 @@
-
+<div align="center">
 <h1>Welcome to my profile!</h1>
 <small>Here you can find some of the code i had been working the past few years!</small>
 
 ### I was born in Chihuahua and i like physics
 ![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 ### Contact:
 ### devbyjosue@gmail.com
+</div>
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 <div align="center">
   
