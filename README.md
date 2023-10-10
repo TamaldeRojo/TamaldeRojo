@@ -23,6 +23,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,latex,matlab,julia,mongodb,fastapi,django,js,git,react,tailwind,raspberrypi,cassandra,dotnet,docker)](https://skills.thijs.gg)
 
 <h1>My most personal meme</h1>
-<img src="https://i.pinimg.com/564x/9f/a8/7c/9fa87cf33d36b878f7adc9adeadfb149.jpg">
+<img src="https://i.pinimg.com/750x/f5/2c/ff/f52cff090884b43c1f194079c3876e79.jpg">
   
 </p>
