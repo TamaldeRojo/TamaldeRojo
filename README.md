@@ -14,18 +14,22 @@
 <aside align="left">
 
   
-<h1> 𝑻𝒉𝒊𝒔 𝒊𝒔 𝒘𝒉𝒂𝒕 𝒊 𝒌𝒏𝒐𝒘 𝒃𝒚 𝒏𝒐𝒘 </h1>
+## 𝑻𝒉𝒊𝒔 𝒊𝒔 𝒘𝒉𝒂𝒕 𝒊 𝒌𝒏𝒐𝒘 𝒃𝒚 𝒏𝒐𝒘 
 
-### Backend || Server (What i like the most)
+<h1>Backend || Server (What i like the most)</h1>
+
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,py,linux,ts,cs,django,fastapi,flask)](https://skills.thijs.gg)
 
-### Frontend 🚨
+<h1>Frontend 🚨</h1>
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,vue)](https://skills.thijs.gg)
 
-### Database Managment 😒
+<h1>Database Managment 😒</h1>
+
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,mongo)](https://skills.thijs.gg)
 
-### More Tools 
+<h1>More Tools</h1> 
+
 [![My Skills](https://skills.thijs.gg/icons?i=raspberrypi,linux,discord,ps,postman,vscode,git,github)](https://skills.thijs.gg)
 
 <h1>Willing or currently learning💗</h1>
