@@ -41,4 +41,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,latex,julia,mongodb,fastapi,js,react,vite,tailwind,raspberrypi,docker)](https://skills.thijs.gg)
 
 </aside>
-<img align="right" style="width: 20%;height: 20%;" src="./images/finalnoBg.png">
+<img align="right" style="width: 35%;height: 35%;" src="./images/finalnoBg.png">
