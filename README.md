@@ -4,17 +4,17 @@
 
 ### I was born in Chihuahua and i like physics
 ![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
-
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 ### Contact:
 ### devbyjosue@gmail.com
 
-<p align="center">
+<div align="center">
   
-<h1> What i do💸✏</h1>
+<h1> My Knowledge on Web Dev</h1>
 
-### Backend || Server
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,py,linux)](https://skills.thijs.gg)
-<center><img style="width: 50%;height: 50%;" src="./images/finalnoBg.png"></center>
+### Backend || Server (What i like the most)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,py,linux,ts,cs,django,fastapi,flask)](https://skills.thijs.gg)
+<center><img style="width: 15%;height: 15%;" src="./images/finalnoBg.png"></center>
 
 ### Frontend
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,tailwind)](https://skills.thijs.gg)
@@ -36,4 +36,4 @@
 <h1>My most personal meme</h1>
 
   
-</p>
+</div>
