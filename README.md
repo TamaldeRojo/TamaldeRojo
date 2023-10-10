@@ -6,7 +6,6 @@
 <img align="right" style="width: 20%;height: 20%;" src="./images/finalnoBg.png">
 
 ### I am from Chih, México ! <3 
-![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
 ### Contact me here:
 ### devbyjosue@gmail.com
 </aside>
@@ -32,6 +31,7 @@
 
 <h1>Willing or currently learning💗</h1>
 
+![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
 [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,cpp,dotnet,firebase,go,rust,godot,laravel,latex,nextjs,nuxtjs,pytorch,sass,c,dart,flutter,arduino,androidstudio,figma,java,kotlin,php,postgres,unity,sqlite3)](https://skills.thijs.gg)
 
 <h1> By beloved stuff💖 </h1>
