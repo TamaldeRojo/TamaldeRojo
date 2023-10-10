@@ -3,7 +3,6 @@
 <center><h1 align="center">ᓚᘏᗢ 𝓛𝓸𝓸𝓴𝓲𝓷𝓰 𝓲𝓷𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 𝓱𝓾𝓱? 🍷</h1></center>
 <aside align="left">
 <small>𝘛𝘢𝘬𝘦 𝘢 𝘭𝘰𝘰𝘬 𝘵𝘰 𝘮𝘺 𝘳𝘦𝘱𝘰𝘴 ~.~</small>
-<img align="right" style="width: 20%;height: 20%;" src="./images/finalnoBg.png">
 
 ### I am from Chih, México ! <3 
 ### Contact me here:
@@ -31,13 +30,11 @@
 
 <h1>Willing or currently learning💗</h1>
 
-![Status](https://img.shields.io/static/v1?label=Status&message=InProgress&color=Green)
 [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,cpp,dotnet,firebase,go,rust,godot,laravel,latex,nextjs,nuxtjs,pytorch,sass,c,dart,flutter,arduino,androidstudio,figma,java,kotlin,php,postgres,unity,sqlite3)](https://skills.thijs.gg)
 
 <h1> By beloved stuff💖 </h1>
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,latex,julia,mongodb,fastapi,js,react,vite,tailwind,raspberrypi,docker)](https://skills.thijs.gg)
 
-
-  
 </aside>
+<img align="right" style="width: 20%;height: 20%;" src="./images/finalnoBg.png">
