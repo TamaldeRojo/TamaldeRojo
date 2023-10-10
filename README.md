@@ -9,6 +9,8 @@
 ### Contact me here:
 ### devbyjosue@gmail.com
 </aside>
+<br>
+<br>
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 <aside align="left">
 <h1> 𝑻𝒉𝒊𝒔 𝒊𝒔 𝒘𝒉𝒂𝒕 𝒊 𝒌𝒏𝒐𝒘 𝒃𝒚 𝒏𝒐𝒘 </h1>
@@ -25,9 +27,9 @@
 ### More Tools 
 [![My Skills](https://skills.thijs.gg/icons?i=raspberrypi,linux,discord,ps,postman,vscode,git,github)](https://skills.thijs.gg)
 
-<h1>What i can use💗</h1>
+<h1>Willing or currently learning💗</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,c,cs,dart,flutter,arduino,androidstudio,figma,java,jquery,kotlin,php,postgres,unity,sqlite3)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,cpp,dotnet,firebase,go,rust,godot,laravel,latex,nextjs,nuxtjs,pytorch,sass,c,dart,flutter,arduino,androidstudio,figma,java,kotlin,php,postgres,unity,sqlite3)](https://skills.thijs.gg)
 
 <h1> By beloved stuff💖 </h1>
 
