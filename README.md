@@ -1,6 +1,6 @@
 
 
-<center><h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝒕𝒉𝒊𝒔 𝒊𝒔 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ᓚᘏᗢ </h1></center>
+<center><h1 align="center">ᓚᘏᗢ 𝓛𝓸𝓸𝓴𝓲𝓷𝓰 𝓲𝓷𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 𝓱𝓾𝓱? 🍷</h1></center>
 <aside align="left">
 <small>𝘛𝘢𝘬𝘦 𝘢 𝘭𝘰𝘰𝘬 𝘵𝘰 𝘮𝘺 𝘳𝘦𝘱𝘰𝘴 ~.~</small>
 <img align="right" style="width: 20%;height: 20%;" src="./images/finalnoBg.png">
