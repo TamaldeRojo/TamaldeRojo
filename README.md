@@ -11,7 +11,7 @@
 </aside>
 <br>
 <br>
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="dsmark" align="right"  height="40%" width="40%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 <aside align="left">
 
   
