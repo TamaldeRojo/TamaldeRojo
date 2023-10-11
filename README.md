@@ -4,9 +4,13 @@
 <aside align="left">
 <small>𝘛𝘢𝘬𝘦 𝘢 𝘭𝘰𝘰𝘬 𝘵𝘰 𝘮𝘺 𝘳𝘦𝘱𝘰𝘴 ~.~</small>
 
-### I am from Chih, México ! <3 
-### Contact me here:
-### devbyjosue@gmail.com
+<small>I am from Chih, México ! <3</small>
+<br>
+<br>
+<small>Contact me here:</small>
+<br>
+<small>devbyjosue@gmail.com</small>
+
 </aside>
 <br>
 <br>
