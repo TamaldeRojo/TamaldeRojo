@@ -2,7 +2,6 @@
 
 <center><h1 align="center">ᓚᘏᗢ  🍷</h1></center>
 <aside align="left">
-<small>Here is were i push my work, no time for cleanning the junk btw</small>
 
 <small>I am from Chih, México ! <3</small>
 <br>
