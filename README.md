@@ -25,7 +25,7 @@
 
 <h1>Frontend 🚨</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,reactnative)](https://skills.thijs.dev)
+[![My Skills](https://skills.thijs.dev/icons?i=js,html,css,react,tailwind,reactnative)](https://skills.thijs.dev)
 
 <h1>Database Managment 😒</h1>
 
