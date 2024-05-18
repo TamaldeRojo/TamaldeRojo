@@ -18,22 +18,7 @@
 
   
 ## 𝑻𝒉𝒊𝒔 𝒊𝒔 𝒘𝒉𝒂𝒕 𝒊 𝒌𝒏𝒐𝒘 𝒃𝒚 𝒏𝒐𝒘 
+![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
-<h1>For Server Stuffs</h1>
-
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,py,linux,ts,cs,django,fastapi,flask)](https://skills.thijs.dev)
-
-<h1>Frontend 🚨</h1>
-
-[![My Skills](https://skills.thijs.dev/icons?i=js,html,css,react,tailwind,reactnative)](https://skills.thijs.dev)
-
-<h1>Database Managment 😒</h1>
-
-[![My Skills](https://skills.thijs.gg/icons?i=mysql,mongo)](https://skills.thijs.gg)
-
-
-<h1> By beloved stuff💖 </h1>
-
-[![My Skills](https://skills.thijs.gg/icons?i=py,latex,julia,mongodb,fastapi,js,react,vite,tailwind,raspberrypi,docker)](https://skills.thijs.dev)
 
 </aside>
