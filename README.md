@@ -40,10 +40,4 @@ I'm a **Current Student 🎓 [@ UTCH BIS 🅾️](https://www.utch.edu.mx/)** ma
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
 
 
-### 🚀 Quick Stats
-<p align="center">
-  
-![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
-
-</p>
 
